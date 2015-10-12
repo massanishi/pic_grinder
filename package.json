@@ -21,7 +21,10 @@
   "homepage": "https://github.com/massanishi/pic_grinder#readme",
   "dependencies": {
     "browserify": "^11.2.0",
+    "events": "^1.1.0",
     "express": "^4.13.3",
+    "flux": "^2.1.1",
+    "keymirror": "^0.1.1",
     "react": "^0.14.0"
   },
   "devDependencies": {
